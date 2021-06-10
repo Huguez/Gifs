@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas con GifGridItem.js debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <p>
+     
+    El hacker
+     
+  </p>
+  <img
+    alt="El hacker"
+    src="https://www.hackeo.com"
+  />
+</div>
+`;
